@@ -7,9 +7,9 @@ Your task is to implement the code under `simple_python_calculator.py`; we've pr
 
 - _Add_
  
--_Subtract_
+- _Subtract_
 
--_Multiply_
+- _Multiply_
 
 - _Divide_ 
 
