@@ -5,10 +5,13 @@ Welcome to your first Python calculator project! The goal is to create a simple 
 Your task is to implement the code under `simple_python_calculator.py`; we've provided placeholders for the functions. Your job is to write the body of those functions.
 *Basic Arithmetic Operations*
 
- _Add_
-_Subtract_
-_Multiply_
-_Divide_ 
+- _Add_
+ 
+-_Subtract_
+
+-_Multiply_
+
+- _Divide_ 
 
 We've set up 4 functions here that you need to finish. These are straightforward and should not pose too much trouble. Recall your lessons on basic operators in Python!
 
